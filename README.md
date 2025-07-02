@@ -25,7 +25,7 @@ A lightweight AI-powered chatbot built in Python that can understand and perform
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AgenticChatbotArithmetic.git
+   git clone https://github.com/DayanandK01/AgenticChatbotArithmetic.git
    cd AgenticChatbotArithmetic
    ```
 2. **Install dependencies**
